@@ -1,0 +1,15 @@
+{
+  "version": 2,
+  "dgSpecHash": "oKWb5+ea/pzNDe7CnXIDuD3cJuoI/VNUCI6Inpg2aHwS0oYImlgR06EivrURF3LNUoD4IHtoj7/qU/V1+jZHDA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\VishalWaman\\source\\repos\\Medi-Connect\\Medi Connect BE\\Medi Connect BE\\Medi Connect BE.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\swashbuckle.aspnetcore\\6.5.0\\swashbuckle.aspnetcore.6.5.0.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.5.0\\swashbuckle.aspnetcore.swagger.6.5.0.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.5.0\\swashbuckle.aspnetcore.swaggergen.6.5.0.nupkg.sha512",
+    "C:\\Users\\VishalWaman\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.5.0\\swashbuckle.aspnetcore.swaggerui.6.5.0.nupkg.sha512"
+  ],
+  "logs": []
+}

@@ -1,0 +1,32 @@
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\appsettings.json
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.exe
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.deps.json
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.runtimeconfig.json
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.pdb
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.csproj.AssemblyReference.cache
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.AssemblyInfoInputs.cache
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.AssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.csproj.CoreCompileInputs.cache
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets\msbuild.Medi Connect BE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets\msbuild.build.Medi Connect BE.props
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medi Connect BE.props
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medi Connect BE.props
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\scopedcss\bundle\Medi Connect BE.styles.css
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.csproj.CopyComplete
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\refint\Medi Connect BE.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.pdb
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.genruntimeconfig.cache
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\ref\Medi Connect BE.dll
