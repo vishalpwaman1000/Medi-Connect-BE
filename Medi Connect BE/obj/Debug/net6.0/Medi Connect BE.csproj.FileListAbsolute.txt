@@ -30,3 +30,10 @@ C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\o
 C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.pdb
 C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.genruntimeconfig.cache
 C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\ref\Medi Connect BE.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Humanizer.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
