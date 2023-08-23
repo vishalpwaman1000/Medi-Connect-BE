@@ -22,6 +22,8 @@ builder.Services.AddDbContext<ApplicationDBContext>(options =>
 #region Dependency Injection
 
 builder.Services.AddScoped<IAuthDL, AuthDL>();
+builder.Services.AddScoped<IDoctorDL, DoctorDL>();
+builder.Services.AddScoped<IPatientDL, PatientDL>();
 
 #endregion
 
