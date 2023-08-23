@@ -5,7 +5,7 @@ using Microsoft.AspNetCore.Mvc;
 
 namespace Medi_Connect_BE.Controllers
 {
-    [Route("api/[controller]")]
+    [Route("api/[controller]/[Action]")]
     [ApiController]
     public class PatientController : ControllerBase
     {

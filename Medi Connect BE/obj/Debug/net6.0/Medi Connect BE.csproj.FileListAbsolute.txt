@@ -37,3 +37,42 @@ C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\o
 C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.pdb
 C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.genruntimeconfig.cache
 C:\Users\VishalWaman\source\repos\Medi-Connect\Medi Connect BE\Medi Connect BE\obj\Debug\net6.0\ref\Medi Connect BE.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\appsettings.Development.json
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\appsettings.json
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.exe
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.deps.json
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.runtimeconfig.json
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Medi Connect BE.pdb
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Humanizer.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Design.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.EntityFrameworkCore.Relational.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Microsoft.OpenApi.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\MySqlConnector.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Pomelo.EntityFrameworkCore.MySql.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\bin\Debug\net6.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.csproj.AssemblyReference.cache
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.AssemblyInfoInputs.cache
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.AssemblyInfo.cs
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.csproj.CoreCompileInputs.cache
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets\msbuild.Medi Connect BE.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets\msbuild.build.Medi Connect BE.props
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets\msbuild.buildMultiTargeting.Medi Connect BE.props
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets\msbuild.buildTransitive.Medi Connect BE.props
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets.pack.json
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets.build.json
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\staticwebassets.development.json
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\scopedcss\bundle\Medi Connect BE.styles.css
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.csproj.CopyComplete
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\refint\Medi Connect BE.dll
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.pdb
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\Medi Connect BE.genruntimeconfig.cache
+C:\Users\SurajKhadse\AllTask\aReactPracticeProject\Medi-Connect-BE\Medi Connect BE\obj\Debug\net6.0\ref\Medi Connect BE.dll
