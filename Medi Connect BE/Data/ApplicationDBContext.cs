@@ -9,6 +9,6 @@ namespace E_Commerce_web_api.Data
 
         public DbSet<UserDetails>? UserDetails { get; set;}
 
-        
+        public DbSet<PatientDetails> PatientDetails { get; set; }
     }
 }

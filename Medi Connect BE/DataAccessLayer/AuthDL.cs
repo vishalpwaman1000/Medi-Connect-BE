@@ -75,6 +75,7 @@ namespace Medi_Connect_BE.DataAccessLayer
 
                 UserDetails _data = new UserDetails();
                 _data.InsertionDate = DateTime.Now.ToString("dd-MM-yyyy");
+                _data.Name = request.Name;
                 _data.EmailID = request.EmailID;
                 _data.City = request.City;
                 _data.Specialization = request.Specialization;
